@@ -15,6 +15,8 @@ import java.io.IOException;
  * @author sanjeev
  */
 public class Screen {
+    
+    //This is encapsulation
     private BufferedReader reader;
     private StudentService studentService;
     public Screen(BufferedReader reader,StudentService studentService)
